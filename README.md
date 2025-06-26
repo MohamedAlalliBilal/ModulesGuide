@@ -2,9 +2,9 @@
 # 📘 3D Slicer Modules Guide Learning Assistant
 
 **An interactive learning tool for beginners exploring 3D Slicer's powerful modules.**
-
+<!--
 ![Modules Guide Banner](ModulesGuide.jpg)
-
+-->
 ## 🧠 What is this?
 
 **Modules Guide** is a Python-only extension for [3D Slicer](https://www.slicer.org/) that helps newcomers—students, researchers, or developers—understand and explore key modules in Slicer. It provides interactive, easy-to-read documentation directly within the Slicer interface.
